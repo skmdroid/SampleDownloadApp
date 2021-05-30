@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">Sample Download App</string>
+    <string name="download">Download</string>
+</resources>
